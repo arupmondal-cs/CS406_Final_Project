@@ -15,6 +15,7 @@ Machine learning methods of recent are being used to successfully detect and fil
 5. Random Forests (RF) classifier
 6. Neural Network (NN) - Multi-Layer Perceptron (MLP) classifier
 
+Project report is also include in the file [Project_Report.pdf](https://github.com/arupmondal-cs/CS406_Final_Project/blob/master/Project_Report.pdf).
 
 ## **File Description:**
 
