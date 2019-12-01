@@ -7,7 +7,7 @@ Machine learning methods of recent are being used to successfully detect and fil
 
  1. K-nearest neighbours (kNN) classifier
  2. Naive Bayes (NB) classifier 
-   * Naive Bayes
+   * Gaussian Naive Bayes
    * Multinomial Naive Bayes
    * Bernoulli Naive Bayes
 3. Support Vector Machine (SVM) classifier
