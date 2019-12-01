@@ -16,7 +16,7 @@ Machine learning methods of recent are being used to successfully detect and fil
 6. Neural Network (NN) - Multi-Layer Perceptron (MLP) classifier
 
 
-##**File Description**
+##File Description
 
 * **SpamFilter.py :** contains the actual python code of the _spam filter_.
 
