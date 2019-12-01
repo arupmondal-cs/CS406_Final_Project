@@ -20,7 +20,7 @@ Machine learning methods of recent are being used to successfully detect and fil
 
 * **SpamFilter.py :** contains the actual python code of the _spam filter_.
 
-* **spambase.data :** contains the _traing_ and _test_ data.
+* **spambase.data :** contains the _traing_ and _test_ data (in this work we consider 80% data is traing and 20% data is test data of the all data, and we choose it randomly).
 
 * **input.txt :** is the _user given_ test input data for testing our model.
 
