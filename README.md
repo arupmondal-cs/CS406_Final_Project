@@ -31,7 +31,7 @@ Machine learning methods of recent are being used to successfully detect and fil
 
 In this project we use [Spambase Data Set](https://archive.ics.uci.edu/ml/datasets/Spambase) which is very old data set for train our model, and it's also used very limited number features. But if we incease the features set then it will also provide good result for the recent data set.
 
-In this project we used 6 different technique to train and test our model, out of all the technique **Random Forest** classifier gives highest accuracy, i.e., 95.87%. You can find [results](https://github.com/arupmondal-cs/CS406_Final_Project/tree/master/Image) for the all classifier.
+In this project we used 6 different technique to train and test our model, out of all the technique **Random Forest** classifier gives highest accuracy, i.e., 95.87%. You can find all [results](https://github.com/arupmondal-cs/CS406_Final_Project/tree/master/Image) for the all classifier.
 
 So, the example result for the Random Forest:
 
