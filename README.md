@@ -27,7 +27,7 @@ Machine learning methods of recent are being used to successfully detect and fil
 * **fet.txt :** contains the text features we considered in this proect to detect the spam or non-spam email. 
 
 
-## **Result:**
+## **Results:**
 
 In this project we use [Spambase Data Set](https://archive.ics.uci.edu/ml/datasets/Spambase) which is very old data set for train our model, and it's also used very limited number features. But if we incease the features set then it will also provide good result for the recent data set.
 
