@@ -1,5 +1,5 @@
 # CS406_Final_Project (SPAM FILTER)
-**Unstructured Information Processing Final Project:**
+## **Unstructured Information Processing Final Project:**
 
 In recent times, unwanted commercial bulk emails called spam has become a huge problem on theinternet.   Spam  prevents  the  user  from  making  full  and  good  use  of  time,  storage  capacity  andnetwork bandwidth. 
 
@@ -17,7 +17,7 @@ Machine learning methods of recent are being used to successfully detect and fil
 
 Project report is also include in the file [Project_Report.pdf](https://github.com/arupmondal-cs/CS406_Final_Project/blob/master/Project_Report.pdf).
 
-## **File Description:**
+## **File Descriptions:**
 
 * **SpamFilter.py :** contains the actual python code of the _spam filter_.
 
