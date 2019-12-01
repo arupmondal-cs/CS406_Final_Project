@@ -14,3 +14,14 @@ Machine learning methods of recent are being used to successfully detect and fil
 4. Decision Tree (DT) classifier
 5. Random Forests (RF) classifier
 6. Neural Network (NN) - Multi-Layer Perceptron (MLP) classifier
+
+
+#****
+
+**SpamFilter.py** contains the actual python code of the _spam filter_.
+
+**spambase.data** contains the _traing_ and _test_ data.
+
+**input.txt** is the _user given_ test input data for testing our model.
+
+**fet.txt** contains the text features we considered in this proect to detect the spam or non-spam email. 
