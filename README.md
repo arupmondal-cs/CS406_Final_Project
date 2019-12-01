@@ -34,6 +34,6 @@ In this project we use [Spambase Data Set](https://archive.ics.uci.edu/ml/datase
 
 In this project we used 6 different technique to train and test our model, out of all the technique **Random Forests** classifier gives highest accuracy, i.e., 95.87%. You can find all [results](https://github.com/arupmondal-cs/CS406_Final_Project/tree/master/Image) for the all classifier.
 
-So, the example result for the Random Forest:
+The following figure shows the result for the Random Forests classifier (Spam Filter):
 
 ![Confusion Matrix for Random Forest](https://github.com/arupmondal-cs/CS406_Final_Project/blob/master/Image/RF.png)
