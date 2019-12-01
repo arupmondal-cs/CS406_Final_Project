@@ -16,7 +16,7 @@ Machine learning methods of recent are being used to successfully detect and fil
 6. Neural Network (NN) - Multi-Layer Perceptron (MLP) classifier
 
 
-## **File Description**
+## **File Description:**
 
 * **SpamFilter.py :** contains the actual python code of the _spam filter_.
 
@@ -25,3 +25,14 @@ Machine learning methods of recent are being used to successfully detect and fil
 * **input.txt :** is the _user given_ test input data for testing our model.
 
 * **fet.txt :** contains the text features we considered in this proect to detect the spam or non-spam email. 
+
+
+## **Result:**
+
+In this project we use [Spambase Data Set](https://archive.ics.uci.edu/ml/datasets/Spambase) which is very old data set for train our model, and it's also used very limited number features. But if we incease the features set then it will also provide good result for the recent data set.
+
+In this project we used 6 different technique to train and test our model, out of all the technique **Random Forest** classifier gives highest accuracy, i.e., 95.87%.
+
+So, the example result for the Random Forest:
+
+![Confusion Matrix for Random Forest](https://github.com/arupmondal-cs/CS406_Final_Project/blob/master/Image/RF.png)
